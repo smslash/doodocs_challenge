@@ -8,7 +8,7 @@
 
 ## Настройка и запуск
 
-В файле ```.env``` укажите свой mail.ru и password
+Создайте файл ```.env``` в главной директори и укажите свой mail.ru и password следующим образом
 
 ```bash
 SMTP_EMAIL=your_email@mail.ru
