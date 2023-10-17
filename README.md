@@ -33,6 +33,10 @@ make test
 make build-and-run
 ```
 
+## render
+
+Также проект запущен на render.com. Ссылка: [https://smslash.onrender.com](https://smslash.onrender.com)
+
 ## Как протестировать?
 
 Так как реализована только серверная сторона можно отправлять запросы с помощью команды CURL
